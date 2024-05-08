@@ -1,0 +1,4 @@
+/build
+hello_fltk
+*.o
+CMakeLists.txt.user
