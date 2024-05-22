@@ -1,4 +1,5 @@
-srcs=test.cpp
+#srcs=chapter.16.5.cpp
+srcs=chapter.16.7.cpp
 
 CC=g++  
 CFLAG=-std=c++2a
